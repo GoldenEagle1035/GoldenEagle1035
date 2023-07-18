@@ -1,7 +1,7 @@
-### Hi there, I am CryptoDream 👋
+### Hi there, I am GoldenEagle1035 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Full-Stack+Blockchain+Developer.;Rich+experience;Deep+knowledge+and+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Senior+Full-Stack+Engineer+Blockchain+Developer.;Rich+experience;Deep+knowledge+and+skills)](https://git.io/typing-svg)
 
 <img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="390" height="300">
 
@@ -25,6 +25,7 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![cosmos](https://img.shields.io/badge/Cosmos-555544?style=for-the-badge&logo=cosmos&logoColor=white)
+![cardano](https://img.shields.io/badge/Cardano-555544?style=for-the-badge&logo=cardano&logoColor=white)
   
 ### Databases    
 
