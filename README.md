@@ -20,6 +20,8 @@
   
 ### Block-Chain Development
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![bsc](https://img.shields.io/badge/Binance-3C3C3D?style=for-the-badge&logo=binance&logoColor=white)
+![xrpl](https://img.shields.io/badge/XRPL-3C3C3D?style=for-the-badge&logo=xrpl&logoColor=white)
 ![solana](https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=solana&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
